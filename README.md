@@ -9,12 +9,15 @@ FEACTURES
 4. Division: Divide large numbers and obtain both quotient and remainder.
 
 DATA STRUCTURES
-.Double Linked List
+
+Double Linked List
+
 We use a double linked list to store each digit of the large numbers. This allows efficient insertion, deletion, and traversal of digits, which is crucial for performing arithmetic operations on numbers with many digits.
 1. Node: Each node in the list represents a four digit.
 2. List: The list can grow dynamically to accommodate numbers of any length.
 
 ADVANCED C TECHNIQUES
+
 This project utilizes several advanced features of C to manage memory and optimize performance:
 1. Dynamic Memory Allocation: To handle numbers of varying lengths.
 2. Pointer Manipulation: For efficient traversal and modification of the linked list.
