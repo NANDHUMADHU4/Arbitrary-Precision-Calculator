@@ -23,27 +23,39 @@ This project utilizes several advanced features of C to manage memory and optimi
 
 
 EXAMPLE EXECUTION
+
 To compile and run this project, you need a C compiler (GCC recommended)
+
 ./a.out
+
 Enter input (num1 operator num2) : 6464667478339292928272 + 7774747746363637383393030
+
 Result : 7781212413841976676321302
+
 Do you want to continue (y/n) : y
+
 Enter input (num1 operator num2) : -65464646467438383833847474 - 676733373738352424353
+
 Result : -6546532320812122186271827
+
 Do you want to continue (y/n) : y
+
 Enter input (num1 operator num2) : 63535435363894242584849 * 53434353678333
+
 Result : 339497492434119088964292717305376717
+
 Do you want to continue (y/n) : y
+
 Enter input (num1 operator num2) : 6464647484838625363737 / 6363633
+
 Result : 1015873713150746
+
 Do you want to continue (y/n) : n
 
 
-CONTRIBUTING 
-Contributions are welcome! If you have suggestions, bug reports, or want to contribute improvements, please submit a pull request.
+CONTRIBUTING  :   Contributions are welcome! If you have suggestions, bug reports, or want to contribute improvements, please submit a pull request.
 
-CONTACT:
-For any inquiries or feedback, feel free to contact NANDHU MADHU via email at nandhumadhu142@gmail.com.
+CONTACT   :   For any inquiries or feedback, feel free to contact NANDHU MADHU via email at nandhumadhu142@gmail.com.
 
 
 
