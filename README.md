@@ -4,9 +4,6 @@ Welcome to the Arbitrary Precision Calculator project! This calculator is design
 
 FEACTURES
 1. Addition: Perform addition on arbitrarily large numbers.
-
-2 Subtraction: Subtract one arbitrarily large number from another.
-
+2. Subtraction: Subtract one arbitrarily large number from another.
 3. Multiplication: Multiply large numbers with precise results.
-  
 4. Division: Divide large numbers and obtain both quotient and remainder.
